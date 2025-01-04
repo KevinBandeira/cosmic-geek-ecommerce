@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - E_commerce_Geek</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/E_commerce_Geek.styles.css" asp-append-version="true" />
+
+</head>
+<body>
+    <div class="responsive mob" id="respo">
+        <div class="responsive-img">
+            <img src="~/img/x-symbol.svg" alt="" onclick="fecharnavbar()">
+        </div>
+        <div class="responsive-text">
+            <a asp-controller="Home" asp-action="Index">Home</a>
+            <a asp-controller="Produto" asp-action="Index">Produtos</a>
+            <a asp-controller="Produto" asp-action="Favoritos">Favoritos</a>
+            <a href="">Créditos</a>
+            <a href="">Contatos</a>
+        </div>
+    </div>
+    <header class="mobile mob">
+
+        <div class="control-divs">
+            <div>
+                <a onclick="abrirnavbar()">
+                    <img src="~/img/menu.svg" alt="">
+                </a>
+            </div>
+            <div class="logozita">
+                <a asp-controller="Home" asp-action="Index">
+                    <img src="~/img/logo.png" alt="">
+                </a>
+            </div>
+            <div>
+                <a asp-controller="Usuario" asp-action="Login">
+                    <img src="~/img/user.png" alt="">
+                </a>
+            </div>
+        </div>
+        <div>
+            <div class="pesqui">
+                <input type="text" placeholder="Olá, o que você Busca?">
+                <button type="submit" class="btnpesq">
+                    <img src="~/img/pesquisa.png" alt="Pesquisar">
+                </button>
+            </div>
+        </div>
+
+    </header>
+    <header class="pc">
+        <div class="arroz">
+            <div class="image">
+                <a href="">
+                    <img src="~/img/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+        <nav>
+            <div class="org">
+                <h5>FRETE GRÁTIS em todo Brasil* (consulte condições)</h5>
+            </div>
+            <div class="pesqui">
+                <input type="text" placeholder="Olá, o que você Busca?">
+                <button type="submit" class="btnpesq">
+                    <img src="~/img/pesquisa.png" alt="Pesquisar">
+                </button>
+            </div>
+            <div class="org">
+                <a asp-controller="Home" asp-action="Index">Home</a>
+                <a asp-controller="Produto" asp-action="Index">Produtos</a>
+                <a asp-controller="Produto" asp-action="Favoritos">Favoritos</a>
+                <a href="">Créditos</a>
+            </div>
+        </nav>
+        <div class="arroz">
+            <a asp-controller="Produto" asp-action="Favoritos">
+                <img src="~/img/favoritos.png" alt="">
+            </a>
+            <a asp-controller="Home" asp-action="Index">
+                <img src="~/img/carrinho.png" alt="">
+            </a>
+            <a asp-controller="Usuario" asp-action="Login">
+                <img src="~/img/user.png" alt="">
+            </a>
+        </div>
+    </header>
+    <div class="">
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <div class="footer-images">
+            <a href="">
+                <img src="~/img/image.png" alt="">
+            </a>
+            <a href="">
+                <img src="~/img/insta.png" alt="">
+            </a>
+        </div>
+        <div class="footer-marca">
+            CosmicGeek ©2025
+        </div>
+        <div class="footer-text">
+            <a href="">Termos e condições</a>
+            <a href="">Politica de privacidade</a>
+            <a href="">Central de Ajuda</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
