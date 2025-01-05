@@ -13,12 +13,20 @@
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
+      "Id": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\css\\produto.css",
+      "PackagePath": "staticwebassets\\css\\produto.css"
+    },
+    {
       "Id": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\img\\FAVORITAR.png",
+      "PackagePath": "staticwebassets\\img\\FAVORITAR.png"
     },
     {
       "Id": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\img\\button direita.png",

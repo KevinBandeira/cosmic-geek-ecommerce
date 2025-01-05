@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XE/RmGjI5TcUtJ3N+VnHWB4/At4KojbMuPlitP2y3nQ=",
+  "Hash": "xE/Ua13ykdJUYNMMZrK+3qOjzMkBiv07JxzkEr1KeHQ=",
   "Source": "E-commerce_Geek",
   "BasePath": "_content/E-commerce_Geek",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\css\\produto.css",
+      "SourceId": "E-commerce_Geek",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\",
+      "BasePath": "_content/E-commerce_Geek",
+      "RelativePath": "css/produto.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\produto.css"
     },
     {
       "Identity": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\css\\site.css",
@@ -186,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\carrinho.png"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\img\\FAVORITAR.png",
+      "SourceId": "E-commerce_Geek",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\",
+      "BasePath": "_content/E-commerce_Geek",
+      "RelativePath": "img/FAVORITAR.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\FAVORITAR.png"
     },
     {
       "Identity": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\img\\favoritos.png",

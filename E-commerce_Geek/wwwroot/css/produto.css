@@ -1,0 +1,173 @@
+﻿.produto {
+    height: 72vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.org-pc {
+    display: flex;
+    width: 5%;
+    height: 60vh;
+}
+
+.btn-voltar {
+    width: 5%;
+    height: 60vh;
+}
+
+
+    .btn-voltar img {
+        width: 60px;
+    }
+
+.card-produto {
+    background-color: #F3F3F3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    width: 60%;
+    height: 65vh;
+    border-radius: 5px;
+}
+
+
+.image-produto {
+    width: 40%;
+    height: 45vh;
+}
+
+    .image-produto img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+
+.fav-produto {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    width: 100%;
+    height: 5vh;
+}
+
+    .fav-produto img {
+        width: 40px;
+    }
+
+.org-texts {
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+}
+
+.text-produto {
+    height: 15vh;
+    width: 95%;
+    font-size: 18px;
+}
+
+.text-preco {
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 95%;
+    font-size: 25px;
+}
+
+.btns {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    width: 100%;
+    height: 20vh;
+}
+
+    .btns button {
+        width: 80%;
+        height: 7vh;
+        border: none;
+        background-color: #8E56E0;
+        color: white;
+        border-radius: 30px;
+    }
+
+
+        .btns button:hover {
+            background-color: #E0D2F6;
+        }
+
+
+
+@media only screen and (max-width: 500px) {
+    .produto {
+        height: 70vh;
+        flex-direction: column;
+    }
+
+    .btn-voltar {
+        width: 100%;
+        height: 6vh;
+    }
+
+        .btn-voltar img {
+            width: 50px;
+        }
+
+    .card-produto {
+        height: 60vh;
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .image-produto {
+        width: 55%;
+        height: 25vh;
+    }
+
+    .fav-produto {
+        width: 90%;
+    }
+
+        .fav-produto img {
+            width: 40px;
+        }
+
+    .org-texts {
+        height: 30vh;
+        gap: 15px;
+    }
+
+    .text-produto {
+        height: 8vh;
+        width: 95%;
+    }
+
+    .text-preco {
+        height: 5vh;
+        width: 95%;
+    }
+
+    .btns {
+        gap: 5px;
+        width: 100%;
+    }
+
+        .btns button {
+            width: 70%;
+            height: 5vh;
+        }
+
+    .org-pc {
+        display: none;
+    }
+}
