@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|c:\\users\\kevin\\source\\repos\\e-commerce_geek\\e-commerce_geek\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|solutionrelative:e-commerce_geek\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|c:\\users\\kevin\\source\\repos\\e-commerce_geek\\e-commerce_geek\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|solutionrelative:e-commerce_geek\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|c:\\users\\kevin\\source\\repos\\e-commerce_geek\\e-commerce_geek\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|solutionrelative:e-commerce_geek\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -11,8 +19,12 @@
       "RelativeMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|solutionrelative:e-commerce_geek\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|c:\\users\\kevin\\source\\repos\\e-commerce_geek\\e-commerce_geek\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|solutionrelative:e-commerce_geek\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|c:\\users\\kevin\\source\\repos\\e-commerce_geek\\e-commerce_geek\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|solutionrelative:e-commerce_geek\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|c:\\users\\kevin\\source\\repos\\e-commerce_geek\\e-commerce_geek\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|solutionrelative:e-commerce_geek\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|c:\\users\\kevin\\source\\repos\\e-commerce_geek\\e-commerce_geek\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,14 +47,6 @@
       "RelativeMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|solutionrelative:e-commerce_geek\\views\\produto\\favoritos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|c:\\users\\kevin\\source\\repos\\e-commerce_geek\\e-commerce_geek\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|solutionrelative:e-commerce_geek\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|c:\\users\\kevin\\source\\repos\\e-commerce_geek\\e-commerce_geek\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|solutionrelative:e-commerce_geek\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|c:\\users\\kevin\\source\\repos\\e-commerce_geek\\e-commerce_geek\\views\\produto\\produto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8BEFAC4C-873A-49A7-8949-0BDA5165B624}|E-commerce_Geek\\E-commerce_Geek.csproj|solutionrelative:e-commerce_geek\\views\\produto\\produto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -58,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "E-commerce_Geek\\Controllers\\HomeController.cs",
@@ -74,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\Views\\Produto\\Index.cshtml",
               "RelativeDocumentMoniker": "E-commerce_Geek\\Views\\Produto\\Index.cshtml",
@@ -86,19 +90,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\Views\\Usuario\\Login.cshtml",
               "RelativeDocumentMoniker": "E-commerce_Geek\\Views\\Usuario\\Login.cshtml",
               "ToolTip": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\Views\\Usuario\\Login.cshtml",
               "RelativeToolTip": "E-commerce_Geek\\Views\\Usuario\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-04T02:58:24.432Z"
+              "WhenOpened": "2025-01-04T02:58:24.432Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Favoritos.cshtml",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\Views\\Produto\\Favoritos.cshtml",
               "RelativeDocumentMoniker": "E-commerce_Geek\\Views\\Produto\\Favoritos.cshtml",
@@ -110,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Produto.cshtml",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\Views\\Produto\\Produto.cshtml",
               "RelativeDocumentMoniker": "E-commerce_Geek\\Views\\Produto\\Produto.cshtml",
@@ -122,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "E-commerce_Geek\\Controllers\\ProdutoController.cs",
@@ -134,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "E-commerce_Geek\\Controllers\\UsuarioController.cs",
@@ -142,12 +147,11 @@
               "RelativeToolTip": "E-commerce_Geek\\Controllers\\UsuarioController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T02:49:43.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T02:49:43.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "E-commerce_Geek\\Views\\Home\\Index.cshtml",
@@ -155,11 +159,12 @@
               "RelativeToolTip": "E-commerce_Geek\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-04T02:39:52.64Z"
+              "WhenOpened": "2025-01-04T02:39:52.64Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "home.css",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\css\\home.css",
               "RelativeDocumentMoniker": "E-commerce_Geek\\wwwroot\\css\\home.css",
@@ -172,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "E-commerce_Geek\\wwwroot\\js\\site.js",
@@ -184,28 +189,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "E-commerce_Geek\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\css\\site.css",
               "RelativeToolTip": "E-commerce_Geek\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAALcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-04T02:24:34.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "E-commerce_Geek\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "E-commerce_Geek\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E-commerce_Geek\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-04T02:20:50.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "E-commerce_Geek\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "E-commerce_Geek\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-05T02:12:13.986Z",
               "EditorCaption": ""
             }
           ]

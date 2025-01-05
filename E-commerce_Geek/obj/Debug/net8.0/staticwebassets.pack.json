@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
+      "Id": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
       "Id": "C:\\Users\\Kevin\\source\\repos\\E-commerce_Geek\\E-commerce_Geek\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

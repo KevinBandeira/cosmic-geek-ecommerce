@@ -28,3 +28,4 @@ C:\Users\Kevin\source\repos\E-commerce_Geek\E-commerce_Geek\obj\Debug\net8.0\ref
 C:\Users\Kevin\source\repos\E-commerce_Geek\E-commerce_Geek\obj\Debug\net8.0\E-commerce_Geek.pdb
 C:\Users\Kevin\source\repos\E-commerce_Geek\E-commerce_Geek\obj\Debug\net8.0\E-commerce_Geek.genruntimeconfig.cache
 C:\Users\Kevin\source\repos\E-commerce_Geek\E-commerce_Geek\obj\Debug\net8.0\ref\E-commerce_Geek.dll
+C:\Users\Kevin\source\repos\E-commerce_Geek\E-commerce_Geek\obj\Debug\net8.0\E-commerce_Geek.sourcelink.json
